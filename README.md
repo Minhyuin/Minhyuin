@@ -22,7 +22,7 @@
 
 ##  "Tech geeks save the world" ⌨️ 
 <div align="center">
-<img src="https://i0.hdslb.com/bfs/new_dyn/0dfa0768ea0dab7c11aca2a7bf101dcc1559631.gif" width="400" height="auto" align="right">
+<img src="https://i0.hdslb.com/bfs/new_dyn/0dfa0768ea0dab7c11aca2a7bf101dcc1559631.gif" width="300" height="auto" align="right">
   </div>
  
 | Property                         | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
